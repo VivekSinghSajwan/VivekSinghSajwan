@@ -1,6 +1,6 @@
-# Hi there, I'm [Vivek Singh Sajwan] 👋
+# Hi there, I'm Vivek Singh Sajwan 👋
 
-Welcome to my GitHub profile! I'm a [B.Tech student specializing in Web Development and Data Structures]. I love working on exciting projects and exploring new technologies. Here’s a little bit about me and what I’m currently working on:
+Welcome to my GitHub profile! I'm a B.Tech student specializing in Web Development and Data Structures. I love working on exciting projects and exploring new technologies. Here’s a little bit about me and what I’m currently working on:
 
 ## 🌟 About Me
 - 🎓 Currently in my 5th semester of B.Tech
