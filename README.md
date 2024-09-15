@@ -30,7 +30,6 @@ A fun and interactive Simon Says game built using JavaScript. The game challenge
 ## 📫 How to Reach Me
 - 📧 Email: [vssajwan09123@gmail.com](mailto:vssajwan09123@gmail.com)
 - 🌐 LinkedIn: [https://www.linkedin.com/in/vivek-singh-sajwan-9aab30300/](#)
-- 🌍 Personal Website: [Your Website](#)
 
 ## 📈 Currently Learning
 - Back end Web Development
