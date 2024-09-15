@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm a B.Tech student specializing in Web Developme
 ## 🌟 About Me
 - 🎓 Currently in my 5th semester of B.Tech
 - 💻 Learning Full stack web development and Java
+- 🧩 Experienced in solving algorithmic challenges on platforms like [LeetCode](https://leetcode.com/Vivek-sajwan/)
 - 📈 Building machine learning models for stock market predictions
 - 🌐 Exploring Node.js and MySQL integrations
 
