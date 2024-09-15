@@ -12,11 +12,14 @@ Welcome to my GitHub profile! I'm a B.Tech student specializing in Web Developme
 ## 📚 Projects
 Here are a few of the projects I've been working on recently:
 
-### 📽 [Movie Information App](#)
+### 📽 [Movie Information App](https://github.com/VivekSinghSajwan/CineInfo-Hub)
 A project that provides detailed information about movies, including release dates, genres, ratings, and more. Built using HTML, CSS, and JavaScript.
 
 ### 📈 [Stock Market Prediction](#)
 A machine learning project that predicts future stock prices using LSTM Neural Networks. Provides insights to help with investment strategies.
+
+### 🎮 [Simon Says Game](https://github.com/VivekSinghSajwan/Simon-Says-Game)
+A fun and interactive Simon Says game built using JavaScript. The game challenges players to remember and repeat a sequence of colors.
 
 ## 💡 Skills & Technologies
 - **Languages**: Java, JavaScript, Python
